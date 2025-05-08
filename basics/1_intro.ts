@@ -24,4 +24,4 @@ const student = {
 	grade: 90,
 }
 
-console.log(student.grade); // burada hata alırız çünkü not özelliği yok
+console.log(student.grade); // 90
